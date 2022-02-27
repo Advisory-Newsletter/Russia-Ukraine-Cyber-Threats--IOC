@@ -1,17 +1,17 @@
 # Russia-Ukraine-Cyber-Threats--IOC
 
                    IOC	Title
-0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da	Wiper malware
-1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591	Wiper malware
-a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92	Fake ransomware targets Ukraine
-dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78	Fake ransomware targets Ukraine
-923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6	Fake ransomware targets Ukraine
-e5f3ef69a534260e899a36cec459440dc572388defd8f1d98760d31c700f42d5	HermeticWiper
-b01e0c6ac0b8bcde145ab7b68cf246deea9402fa7ea3aede7105f7051fe240c1	HermeticWiper
-b6f2e008967c5527337448d768f2332d14b92de22a1279fd4d91000bb3d4a0fd	HermeticWiper
-fd7eacc2f87aceac865b0aa97a50503d44b799f27737e009f91f3c281233c17d	HermeticWiper
-4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382	Wiper malware
-100.43.220.234	Cyclops Blink
+0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da     :Wiper malware
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591	   :Wiper malware
+a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92	   :Fake ransomware targets Ukraine
+dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78	   :Fake ransomware targets Ukraine
+923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6     :Fake ransomware targets Ukraine
+e5f3ef69a534260e899a36cec459440dc572388defd8f1d98760d31c700f42d5	   :HermeticWiper
+b01e0c6ac0b8bcde145ab7b68cf246deea9402fa7ea3aede7105f7051fe240c1	   :HermeticWiper
+b6f2e008967c5527337448d768f2332d14b92de22a1279fd4d91000bb3d4a0fd	   :HermeticWiper
+fd7eacc2f87aceac865b0aa97a50503d44b799f27737e009f91f3c281233c17d	   :HermeticWiper
+4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382	   :Wiper malware
+100.43.220.234	    :Cyclops Blink
 96.80.68.193	Cyclops Blink
 188.152.254.170	Cyclops Blink
 208.81.37.50	Cyclops Blink
